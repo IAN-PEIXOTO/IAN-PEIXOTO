@@ -5,8 +5,7 @@ Sou estudante de Engenharia de Software, em busca de estágio na área de desenv
 Tenho conhecimentos em C#, .NET, SQL e React, além de experiência com análise de dados, Excel, SAP e rotinas administrativas.
 
 ## 🚀 Tecnologias que estou estudando
-![C#](https://img.shields.io/badge/language-C%23-purple)
-![.NET](https://img.shields.io/badge/.NET-10.0-blue)
+
 - C#
 - .NET / API REST
 - SQL
