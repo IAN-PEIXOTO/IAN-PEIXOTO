@@ -27,4 +27,4 @@ Repositório com exemplos de consultas SQL, joins, filtros e organização de da
 ## 📫 Contato
 
 - Email: ianvictorpeixoto2008@hotmail.com
-- GitHub: github.com/IanPeixe
+
