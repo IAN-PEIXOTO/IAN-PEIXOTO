@@ -29,3 +29,11 @@ Estudante de Engenharia de Software em busca de estágio na área de desenvolvim
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian-peixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-peixoto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ian-peixoto/ian-peixoto/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ian-peixoto/ian-peixoto/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ian-peixoto/ian-peixoto/output/snake.svg">
+</picture>
