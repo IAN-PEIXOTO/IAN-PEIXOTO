@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software em busca de estágio na área de desenvolvimento, com foco em back-end e desenvolvimento web.
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -19,7 +19,7 @@ Estudante de Engenharia de Software em busca de estágio na área de desenvolvim
 
 <div>
   <a href="mailto:ianvictorpeixoto2008@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ian-peixoto-83a6ba278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ian-peixoto-83a6ba278/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iann.vp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
@@ -27,7 +27,7 @@ Estudante de Engenharia de Software em busca de estágio na área de desenvolvim
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IAN-PEIXOTO&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAN-PEIXOTO&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=IAN-PEIXOTO&theme=dracula&hide_border=true"/>
 </div>
 
 ##
