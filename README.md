@@ -1,19 +1,31 @@
-# Olá, eu sou o Ian Victor 👋
+## Olá, eu sou o Ian Victor! 👋
 
-Sou estudante de Engenharia de Software, em busca de estágio na área de desenvolvimento, com foco em desenvolvimento web e back-end.
+Estudante de Engenharia de Software em busca de estágio na área de desenvolvimento, com foco em back-end e desenvolvimento web.
 
-Tenho conhecimentos em PHP, Laravel, Ultilizo PostgreSQL e React, além de experiência com gestão de négocios.
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🚀 Tecnologias que estou estudando
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Ian-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Ian-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ian-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ian-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
 
-- PHP
-- Laravel \ API Rest
-- PostgreSQL
-- React
-- HTML, CSS e JavaScript \ Node
+##
 
-## 📫 Contato
+<div>
+  <a href="mailto:ianvictorpeixoto2008@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ian-peixoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ian_peixoto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-- Email: ianvictorpeixoto2008@hotmail.com
-- Whatsapp: (44) 99836-6376
+##
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian-peixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-peixoto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
