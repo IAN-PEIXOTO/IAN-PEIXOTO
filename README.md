@@ -19,21 +19,21 @@ Estudante de Engenharia de Software em busca de estágio na área de desenvolvim
 
 <div>
   <a href="mailto:ianvictorpeixoto2008@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ian-peixoto-83a6ba278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ian-peixoto-83a6ba278/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iann.vp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian-peixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-peixoto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IAN-PEIXOTO&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAN-PEIXOTO&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ian-peixoto/ian-peixoto/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ian-peixoto/ian-peixoto/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ian-peixoto/ian-peixoto/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IAN-PEIXOTO/IAN-PEIXOTO/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IAN-PEIXOTO/IAN-PEIXOTO/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IAN-PEIXOTO/IAN-PEIXOTO/output/snake.svg">
 </picture>
