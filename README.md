@@ -27,7 +27,7 @@ Estudante de Engenharia de Software em busca de estágio na área de desenvolvim
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IAN-PEIXOTO&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=IAN-PEIXOTO&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAN-PEIXOTO&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
