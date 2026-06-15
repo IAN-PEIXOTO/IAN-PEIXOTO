@@ -21,10 +21,10 @@ Desenvolvedor em formação, aspirante a Engenheiro de Software com foco em dese
 
 ##
 
-<table border="0" width="100%" cellspacing="10"><tr valign="top">
-  <td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=IAN-PEIXOTO&show_icons=true&theme=dark&hide_border=true"/></td>
-  <td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAN-PEIXOTO&theme=dark&hide_border=true&langs_count=4"/></td>
-</tr></table>
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ian-peixoto&theme=dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAN-PEIXOTO&theme=dark&hide_border=true&langs_count=4"/>
+</div>
 
 ##
 
