@@ -23,7 +23,7 @@ Desenvolvedor em formação, aspirante a Engenheiro de Software com foco em dese
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ian-peixoto&theme=dark"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAN-PEIXOTO&theme=dark&hide_border=true&langs_count=4"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAN-PEIXOTO&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 ##
