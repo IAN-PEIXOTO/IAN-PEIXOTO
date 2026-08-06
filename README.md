@@ -1,14 +1,15 @@
 ## Olá, eu sou o Ian Victor! 👋
 
-Desenvolvedor em formação, aspirante a Engenheiro de Software com foco em desenvolvimento back-end e aplicações web.
+Estudante de Engenharia de Software e profissional de suporte técnico, com experiência em análise de incidentes, consultas SQL e homologação de funcionalidades em sistemas corporativos. Atualmente aprofundando conhecimentos em Java, Spring Boot e APIs REST.
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Ian-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Ian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ian-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Ian-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Ian-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Ian-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Ian-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 
 ##
@@ -22,8 +23,8 @@ Desenvolvedor em formação, aspirante a Engenheiro de Software com foco em dese
 ##
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ian-peixoto&theme=dark"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAN-PEIXOTO&layout=compact&theme=dark&hide_border=true"/>
+  <img width="49%" src="https://raw.githubusercontent.com/IAN-PEIXOTO/IAN-PEIXOTO/main/profile-summary-card-output/dark/3-stats.svg"/>
+  <img width="49%" src="https://raw.githubusercontent.com/IAN-PEIXOTO/IAN-PEIXOTO/main/profile-summary-card-output/dark/1-repos-per-language.svg"/>
 </div>
 
 ##
